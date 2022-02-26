@@ -1,0 +1,14 @@
+.title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+}
+.title_white {
+    color: #FFFFFF;
+}
+.subtitle {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    font-weight: 700;
+}

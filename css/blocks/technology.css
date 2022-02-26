@@ -1,0 +1,11 @@
+.technology {
+    height: 500px;
+}
+.technology__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.technology__title {
+    text-align: center;
+    margin: 63px 0 52px 0;
+}

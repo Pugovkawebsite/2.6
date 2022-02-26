@@ -1,0 +1,31 @@
+.item {
+    width: 226px;
+}
+.item__wrap {
+    margin: 0 auto;
+    position: relative;
+    height: 120px;
+    width: 117px;
+}
+.item__number {
+    font-size: 100px;
+    color: rgba(16, 16, 16, 0.08);
+    font-weight: 700;
+}
+.item__img {
+    /* padding: 0; */
+    position: absolute;
+    
+       
+    left: 50%;
+    transform: translateX(-50%);
+    top: 50%;
+    /* transform: translateY(-10%); */
+}
+.item__subtitle {
+    margin-top: 15px;
+}
+.item__descr {
+    margin-top: 10px;
+}
+

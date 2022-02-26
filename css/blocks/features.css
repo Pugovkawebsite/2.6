@@ -1,0 +1,13 @@
+.features {
+    background: #FAFAFA;
+    min-height: 660px;
+    padding: 63px 0 124px 0;
+}
+.features__wraper {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 63px;
+}
+.features__title {
+    text-align: center;
+}

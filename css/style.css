@@ -1,0 +1,29 @@
+@import 'blocks/promo.css';
+@import 'blocks/button.css';
+@import 'base/variables.css';
+@import 'blocks/title.css';
+@import 'blocks/benefit.css';
+@import 'blocks/descr.css';
+@import 'blocks/specification.css';
+@import 'blocks/features.css';
+@import 'blocks/card.css';
+@import 'blocks/technology.css';
+@import 'blocks/item.css';
+@import 'blocks/focused.css';
+@import 'blocks/contacts.css';
+@import 'blocks/form.css';
+@import 'blocks/footer.css';
+@import 'blocks/media.css';
+@import 'blocks/hover.css';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    max-width: 1107px;
+    margin: 0 auto;
+}
+

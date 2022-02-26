@@ -1,0 +1,46 @@
+
+
+.benefit {
+    min-height: 500px;
+    padding: 94px 0 95px 0;
+    
+   
+}
+.grid__benefit  {
+    padding-right: 98px;
+    display: grid;
+    grid-template-columns: 445px 445px; 
+    grid-template-rows: 167px 75px 20px;
+    row-gap: 22px;
+    column-gap: 125px;
+    grid-template-areas: 
+    "title picture"
+    "descr picture"
+    "specification picture";
+}
+
+.title {
+    grid-area: title;
+}
+/* .grid__wrapper {
+    grid-area: wrapper;
+} */
+.grid__img {
+    width: 445px;
+    height: 311px;
+    grid-area: picture;
+    border-radius: 15px;
+}
+.grid__specification {
+    margin-top: 3px;
+    padding-left: 3px;
+}
+.grid__title {
+    margin-top: 60px;
+}
+.descr {
+    grid-area: descr;
+}
+.specification {
+    grid-area: specification;
+}

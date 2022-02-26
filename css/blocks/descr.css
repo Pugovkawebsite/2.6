@@ -1,0 +1,16 @@
+.descr {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.descr_size_12 {
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+}
+.descr_lh_14 {
+    line-height: 14px;
+}
+.descr_color_white {
+    color: #FFFFFF;
+}

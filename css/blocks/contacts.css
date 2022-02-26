@@ -1,0 +1,44 @@
+.contacts {
+    height: 500px;
+    padding-top: 117px;
+    padding-bottom: 78px;
+}
+/* .contacts__grid {
+    padding-left: 8px;
+    grid-template-columns: 434px 540px;
+    grid-template-rows: none;
+    column-gap: 125px;
+    padding-right: 0;
+    row-gap: 0;
+    
+    
+   
+    
+
+}
+.contacts__title {
+    margin-top: 3px;
+} */
+.contacts__flex {
+    padding-left: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+/* .contacts__descr:nth-child(1) {
+    background: red;
+} */
+.contacts__descr {
+    margin-top: 71px;
+    width: 434px;
+}
+
+
+
+
+
+
+
+
+
+
+

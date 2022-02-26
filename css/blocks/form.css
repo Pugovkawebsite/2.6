@@ -1,0 +1,82 @@
+.form__input {
+  width: 100%;
+  height: 60px;
+  border: 1px solid #333333;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(19, 39, 67, 0.5);
+  padding: 21px 0 20px 31px;
+  margin-bottom: 24px;
+}
+.contacts__small {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form__input_size_small {
+  width: 255px;
+}
+.contacts__form {
+  width: 540px;
+}
+.btn__form {
+  margin-top: 27px;
+}
+
+
+
+
+
+/* .valid:valid  {
+  background: url(../../icons/form/yes.svg);
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: 10px 20px;
+    
+} */
+
+/* .valid:invalid {
+  border: 1px solid red;
+  background: url(../../icons/form/attention2.svg);
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: 10px 20px;
+} */
+
+
+
+/* input.valid:valid {
+  background-color: rgba(0, 255, 0, 0.25);
+}
+input.valid:invalid {
+  background-color: rgba(255, 0, 0, 0.25);
+  border: 2px solid red;
+}
+input.valid:valid + label::after {
+  content:'correctly';
+}
+input.valid:invalid + label::after {
+  content:'error';
+}
+.contacts__small {
+  position: relative;
+}
+.label_small_1 {
+position: absolute;
+top: 60px;
+
+}
+.label_small_2 {
+  position: absolute;
+  left: 285px;
+  top: 60px;
+ 
+}
+.label_big {
+  position: absolute;
+  top: 140px;
+}
+.contacts__input {
+  position: relative;
+} */

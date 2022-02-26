@@ -1,0 +1,50 @@
+.animated:hover {
+   
+    color: green;
+    text-shadow: -1px -1px yellow;
+    
+    
+} 
+.animated_border:hover {
+    border: solid;
+}
+.button_mini:hover {
+   
+    text-shadow: -0.5px -0.5px #FFFFFF;
+    cursor: pointer;
+}
+.big:hover {
+   
+    color: black;
+    cursor: pointer;
+}
+/* .card__specification:hover {
+   
+    text-shadow: -0.5px -0.5px red;
+} */
+
+.weight:hover {
+   
+    text-shadow: -0.5px -0.5px #FFFFFF;
+}
+.btn__form:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+.button_main:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+/* .effect2:hover {
+    fill: #bf360c;
+    cursor: pointer;
+}     */
+
+
+.grid__icon:hover {
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+    
+  

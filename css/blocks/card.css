@@ -1,0 +1,28 @@
+.card {
+    position: relative;
+}
+.card__block {
+    background: #FFFFFF;
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 293px;
+    height: 198px;
+    position: absolute;
+    top: 157px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.card__subtitle {    
+    padding-top: 33px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card__descr {
+    
+    padding: 20px 32px 22px 32px;
+}
+.card__specification {
+    text-align: center;
+    padding-bottom: 25px;
+    display: block;
+}
